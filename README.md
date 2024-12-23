@@ -1,3 +1,1 @@
-# 0539-KIT
-
-### Introction Rootkit-Linux
+# Introction Rootkit-Linux
